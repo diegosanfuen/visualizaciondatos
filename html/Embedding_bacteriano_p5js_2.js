@@ -8,7 +8,7 @@ function preload() {
 }
 
 function setup() {
-  frameRate(10);
+  
   createCanvas(400, 400, WEBGL);
   fill(100, 0, 0);
 
